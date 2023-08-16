@@ -1,5 +1,3 @@
 package com.example.gopharma.models
 
-class Cliente {
-
-}
+data class Cliente(var id : Int?, var nome : String, var email : String, var celular : String, var senha : String)
