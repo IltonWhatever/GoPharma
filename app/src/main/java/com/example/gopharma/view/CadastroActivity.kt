@@ -34,7 +34,7 @@ class CadastroActivity : AppCompatActivity(),View.OnClickListener {
         val cliente = Cliente(null, binding.nome.text.toString(), binding.email.text.toString(),
             binding.telefone.text.toString(), binding.senha.text.toString())
         val retrofitClient = ServerHTTP
-            .getRetrofitInstance("http://172.16.10.223/")
+            .getRetrofitInstance("http://192.168.42.65:5000/")
 
         val endpoint = retrofitClient.create(Endpoints::class.java)
 
