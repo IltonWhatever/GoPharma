@@ -1,0 +1,10 @@
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\ui\theme\Type.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\ui\theme\Theme.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\view\CadastroActivity.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\view\PropostasActivity.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\view\MenuActivity.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\util\Endpoints.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\ui\theme\Color.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\util\ServerHTTP.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\view\LoginActivity.kt
+C:\Users\IFCE-Lab4\StudioProjects\GoPharma\GoPharma\app\src\main\java\com\example\gopharma\models\Cliente.kt
