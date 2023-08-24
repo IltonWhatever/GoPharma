@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.gopharma.app-mergeDebugResources-58:/layout/activity_cadastro.xml",
+        "source": "com.example.gopharma.app-main-61:/layout/activity_cadastro.xml"
+    },
+    {
+        "merged": "com.example.gopharma.app-mergeDebugResources-58:/layout/activity_menu.xml",
+        "source": "com.example.gopharma.app-main-61:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.example.gopharma.app-mergeDebugResources-58:/layout/activity_login.xml",
+        "source": "com.example.gopharma.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.gopharma.app-mergeDebugResources-58:/layout/activity_propostas.xml",
+        "source": "com.example.gopharma.app-main-61:/layout/activity_propostas.xml"
+    }
+]
